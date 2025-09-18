@@ -1,0 +1,5 @@
+opportunity_market,market_potential_usd_millions,current_market_gap_usd_millions,growth_rate_cagr_percent,time_frame,primary_driver,secondary_driver,tertiary_driver,untapped_percentage
+African Aquaculture,754,424,9.2,2024-2034,Population growth,Protein demand,Government investment,56.2
+Smart Net Technology,450,380,15.2,2025-2030,IoT adoption,Efficiency needs,Data analytics,84.4
+Biodegradable Nets,320,295,11.8,2025-2032,Environmental regulations,Sustainability focus,Ocean conservation,92.2
+Latin America Expansion,199,121,6.8,2024-2034,Trade agreements,Export growth,Coastal development,60.8

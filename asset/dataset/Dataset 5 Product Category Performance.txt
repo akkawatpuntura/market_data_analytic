@@ -1,0 +1,7 @@
+product_category,market_share_percent,growth_rate_cagr_percent,market_value_2024_usd_millions,primary_application,material_type,key_advantage
+Gill Nets,32.0,5.8,620,Coastal fisheries,Nylon,Low cost and versatility
+Trawl Nets,24.5,4.2,475,Commercial trawling,Polyethylene,Industrial strength
+Drift Nets,18.3,8.7,355,Open water fishing,Nylon,Smart sensor integration
+Seine Nets,12.8,6.1,248,Purse seining,Polypropylene,Large catch capacity
+Cast Nets,7.2,3.9,140,Individual fishing,Cotton/Nylon,Simple operation
+Other Nets,5.2,7.5,102,Specialized applications,Mixed materials,Custom applications

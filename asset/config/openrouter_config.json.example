@@ -1,0 +1,12 @@
+{
+  "api_key": "your-openrouter-api-key-here",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "openai/gpt-5",
+  "referer": "http://localhost",
+  "title": "Fishing Net Dashboard",
+  "web_search": {
+    "enable": true,
+    "search_provider": "tavily",
+    "num_results": 4
+  }
+}

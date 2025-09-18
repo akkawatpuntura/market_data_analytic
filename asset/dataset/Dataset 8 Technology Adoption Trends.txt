@@ -1,0 +1,7 @@
+technology_category,adoption_rate_percent,market_size_usd_millions,growth_rate_percent,key_benefits,implementation_timeline_years,cost_premium_percent
+Smart Sensors/IoT,12.4,577,15.2,"Real-time monitoring, catch optimization",2-3,25-40
+Biodegradable Materials,3.8,177,11.8,"Environmental compliance, ocean conservation",3-5,45-60
+UV-Resistant Coatings,28.6,1330,7.3,"Extended lifespan, reduced maintenance",1-2,8-15
+Anti-Fouling Technology,18.9,879,9.1,"Improved efficiency, reduced drag",1-2,12-20
+RFID Tracking,8.7,405,13.6,"Asset management, loss prevention",1-2,15-25
+High-Performance Fibers,45.2,2102,6.8,"Increased strength, lighter weight",1-2,20-35

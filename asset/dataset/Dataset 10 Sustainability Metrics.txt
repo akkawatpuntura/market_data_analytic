@@ -1,0 +1,7 @@
+sustainability_metric,current_value,unit,target_2030,improvement_needed_percent,primary_challenge,solution_category
+Ocean Plastic Waste from Nets,640000,tonnes_per_year,320000,50.0,Material degradation,Biodegradable alternatives
+Ghost Fishing Incidents,25000,reported_cases_per_year,10000,60.0,Net loss tracking,RFID/GPS tracking
+Recycled Material Usage,8.5,percent_of_total,35.0,312.0,Collection infrastructure,Circular economy programs
+Biodegradable Net Adoption,3.8,percent_of_market,25.0,558.0,Cost and performance,R&D investment
+Carbon Footprint Reduction,12.0,percent_vs_2020,40.0,233.0,Manufacturing efficiency,Green energy adoption
+Sustainable Fishing Compliance,62.3,percent_of_stocks,85.0,36.4,Overfishing practices,Better management

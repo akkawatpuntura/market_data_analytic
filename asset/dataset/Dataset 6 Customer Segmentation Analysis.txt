@@ -1,0 +1,5 @@
+customer_segment,market_share_percent,revenue_contribution_usd_millions,growth_rate_percent,primary_channel,average_order_value_usd,customer_lifetime_value_usd
+Commercial B2B,72.0,3348,6.2,Direct to fleet,125000,890000
+Aquaculture Operations,15.8,735,11.4,Specialized dealers,85000,650000
+Government/Institutional,7.4,344,4.8,Direct sales,95000,450000
+Individual Consumers,4.8,223,3.2,Retail stores,280,1200

@@ -1,0 +1,18 @@
+# Source: Mordor Intelligence - Global Fishing Nets Market Report 2024
+# Updated Base Year: 2025 Market Size: USD 2.1 billion, Projected 2030: USD 2.9 billion, CAGR: 6.7%
+year,total_market_usd_billions,fishing_nets_usd_billions,aquaculture_cages_usd_billions,annual_growth_rate_percent,source_reference
+2020,1.65,1.15,0.50,0.0,Historical Data - Mordor Intelligence
+2021,1.72,1.20,0.52,4.24,Historical Growth Analysis
+2022,1.82,1.28,0.54,5.81,Historical Growth Analysis
+2023,1.95,1.37,0.58,7.14,Historical Growth Analysis
+2024,2.05,1.44,0.61,5.13,Historical Data - Mordor Intelligence
+2025,2.10,1.47,0.63,2.44,Base Year - Mordor Intelligence Report
+2026,2.24,1.57,0.67,6.67,Projected based on 6.7% CAGR
+2027,2.39,1.67,0.72,6.70,Projected based on 6.7% CAGR
+2028,2.55,1.79,0.76,6.69,Projected based on 6.7% CAGR
+2029,2.72,1.90,0.82,6.67,Projected based on 6.7% CAGR
+2030,2.90,2.03,0.87,6.62,Target Year - Mordor Intelligence Report
+2031,3.09,2.16,0.93,6.55,Projected based on 6.7% CAGR
+2032,3.30,2.31,0.99,6.80,Projected based on 6.7% CAGR
+2033,3.52,2.47,1.05,6.67,Projected based on 6.7% CAGR
+2034,3.76,2.63,1.13,6.82,Long-term Projection - Mordor Intelligence

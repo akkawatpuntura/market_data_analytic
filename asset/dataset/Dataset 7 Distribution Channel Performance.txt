@@ -1,0 +1,6 @@
+distribution_channel,revenue_share_percent,growth_rate_cagr_percent,revenue_2024_usd_millions,average_margin_percent,customer_satisfaction_score,digital_adoption_percent
+Direct to Fleet,49.0,5.8,2279,28.5,87,45
+Online B2B Platforms,12.6,12.6,586,22.3,82,100
+Regional Dealers,21.4,4.2,995,31.2,85,25
+Specialty Marine Stores,10.8,3.8,502,35.4,89,15
+Export Partners,6.2,8.1,288,18.9,81,55

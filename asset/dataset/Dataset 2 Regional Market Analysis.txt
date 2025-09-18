@@ -1,0 +1,10 @@
+# Source: Mordor Intelligence - Fishing Net Market Report 2024 (Updated)
+# Reference: https://www.mordorintelligence.com/industry-reports/fishing-net-market
+# Asia-Pacific dominates with 43% market share, Africa fastest growing at 9.2% CAGR
+region,market_share_percent_2024,market_value_2024_usd_millions,projected_value_2030_usd_millions,cagr_2025_2030_percent,key_countries,primary_growth_drivers,source_reference
+Asia-Pacific,43.0,903.0,1247.0,6.7,"China, Japan, India, Indonesia, Vietnam","Large-scale aquaculture operations, rising seafood consumption, technology adoption",Mordor Intelligence 2024
+North America,22.5,472.5,652.5,6.7,"United States, Canada","Sustainable fishing practices, regulatory compliance, precision aquaculture technology",Mordor Intelligence 2024  
+Europe,18.7,392.7,542.3,6.7,"Norway, Iceland, United Kingdom, Spain, France","Environmental sustainability focus, biodegradable net materials, bycatch reduction regulations",Mordor Intelligence 2024
+Latin America,8.9,186.9,258.1,6.7,"Peru, Chile, Brazil, Ecuador, Mexico","Expanding coastal fisheries, export market growth, aquaculture investment",Mordor Intelligence 2024
+Africa,5.4,113.4,207.2,9.2,"Morocco, South Africa, Egypt, Nigeria, Ghana","Rapid aquaculture sector growth (11% annually), emerging market opportunities, infrastructure development",Mordor Intelligence 2024
+Middle East,1.5,31.5,43.5,6.7,"Turkey, Iran, Saudi Arabia, UAE","Food security initiatives, regional aquaculture development, investment in fishing technology",Mordor Intelligence 2024

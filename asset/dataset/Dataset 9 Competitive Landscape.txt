@@ -1,0 +1,8 @@
+company_name,country,market_share_percent,revenue_2024_usd_millions,specialization,established_year,global_presence_countries,key_innovation
+Garware Technical Fibres,India,12.8,595,Aquaculture cage nets,1976,75,Bio-based polymers
+Nitto Seimo,Japan,11.4,530,Commercial fishing nets,1951,45,Smart sensor integration
+King Chou Marine Technology,Taiwan,9.7,451,Gill and trawling nets,1982,38,Automated manufacturing
+Viet AU Ltd,Vietnam,8.3,386,Quality control systems,1995,22,International standards
+Miller Net Company,USA,6.8,316,Specialized marine equipment,1889,15,Custom engineering
+Memphis Net and Twine,USA,5.9,274,Traditional fishing nets,1925,12,Heritage craftsmanship
+Other Companies,Various,45.1,2098,Mixed specializations,Various,Various,Various innovations

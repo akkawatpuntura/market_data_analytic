@@ -1,0 +1,6 @@
+solara
+pandas
+requests
+python-dotenv
+httpx
+uvicorn

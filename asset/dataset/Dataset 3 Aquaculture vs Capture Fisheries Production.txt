@@ -1,0 +1,16 @@
+# Source: Mordor Intelligence - Fishing Net Market Report 2024 (Updated)
+# Reference: https://www.mordorintelligence.com/industry-reports/fishing-net-market
+# Aquaculture sector growing at 13.7% annually, expected to reach 54% of world production by 2032
+# Commercial fishing: 54% market size, Net types: Gill Nets (32% revenue share), Drift Nets (8.7% CAGR)
+year,aquaculture_net_demand_usd_millions,capture_fisheries_net_demand_usd_millions,gill_nets_market_share_percent,drift_nets_growth_rate_percent,total_fishing_nets_market_usd_millions,source_reference
+2020,495,1155,30.5,7.5,1650,Historical analysis - Mordor Intelligence
+2021,563,1157,31.0,7.8,1720,Historical analysis - Mordor Intelligence
+2022,640,1180,31.5,8.0,1820,Historical analysis - Mordor Intelligence
+2023,728,1222,31.8,8.3,1950,Historical analysis - Mordor Intelligence
+2024,828,1222,32.0,8.5,2050,Mordor Intelligence Report 2024
+2025,942,1258,32.0,8.7,2200,Projected - aquaculture 13.7% CAGR
+2026,1071,1289,32.0,8.7,2360,Projected - aquaculture 13.7% CAGR
+2027,1218,1321,32.0,8.7,2539,Projected - aquaculture 13.7% CAGR
+2028,1384,1354,32.0,8.7,2738,Projected - aquaculture 13.7% CAGR
+2029,1574,1388,32.0,8.7,2962,Projected - aquaculture 13.7% CAGR
+2030,1790,1210,32.0,8.7,3000,Target projection - aquaculture dominance
