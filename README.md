@@ -1,4 +1,4 @@
-# Fishing Net Market Dashboard
+# ishing Net Market Dashboard 🔗 [marketdashboard.a.pinggy.link](https://marketdashboard.a.pinggy.link/)
 
 Interactive Solara dashboard and Slidev generator for exploring fishing net market data and producing executive slide decks.
 
