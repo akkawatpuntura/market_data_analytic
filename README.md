@@ -67,18 +67,6 @@ nvm install 20
 nvm use 20
 ```
 
-### Alternative Python Environment (venv)
-
-Create and activate a virtual environment (example using `python -m venv`):
-
-```bash
-python -m venv .venv
-source .venv/bin/activate           # Windows: .venv\Scripts\activate
-pip install solara pandas requests python-dotenv httpx uvicorn
-```
-
-> If you prefer `uv`, use `uv venv` / `uv sync` instead.
-
 ### Configure OpenRouter
 
 Edit `asset/config/openrouter_config.json` and set your real API key. Optionally tweak `model`, `referer`, `title`, or `web_search` settings.
@@ -152,4 +140,4 @@ git push -u origin main
 
 ## License
 
-Add your preferred license here.
+MIT License
