@@ -45,14 +45,36 @@ The dashboard provides comprehensive market analysis across multiple views:
 - Node.js ≥ 18 (needed for Slidev preview)
 - OpenRouter API key with access to the `openai/gpt-5` model (or update the config for another model)
 
-### Python environment
+### For Windows WSL Setup
+
+#### Python Environment (Conda - Recommended)
+
+Create the conda environment using the provided YAML file:
+
+```bash
+conda env create -f environment.yml
+conda activate solara_py310
+```
+
+#### Node.js Setup
+
+Using Node Version Manager (recommended):
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+source ~/.bashrc
+nvm install 20
+nvm use 20
+```
+
+### Alternative Python Environment (venv)
 
 Create and activate a virtual environment (example using `python -m venv`):
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate           # Windows: .venv\Scripts\activate
-pip install -r requirements.txt      # Install Solara + runtime deps
+pip install solara pandas requests python-dotenv httpx uvicorn
 ```
 
 > If you prefer `uv`, use `uv venv` / `uv sync` instead.
